@@ -11,8 +11,7 @@ import {AppRoutingModule} from './app-routing.module'
   ],
   imports: [
     AppRoutingModule,
-    BrowserModule,
-    LazyloadingModule,
+    BrowserModule
   ],
   providers: [],
   bootstrap: [AppComponent]
